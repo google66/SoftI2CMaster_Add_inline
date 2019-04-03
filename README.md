@@ -1,3 +1,5 @@
+#The author of this lib in [There](https://github.com/felias-fogg/SoftI2CMaster).
+
 # SoftI2CMaster
 
 
